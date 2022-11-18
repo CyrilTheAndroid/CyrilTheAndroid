@@ -27,9 +27,9 @@ Bon, je fais aussi des petites vidéos sur **l’actualité Android/Google** et 
 
 ## 🎥 Vidéos Récentes
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YleY17Bgq6s"><img src="http://img.youtube.com/vi/YleY17Bgq6s/0.jpg" 
-alt="MVVM en KOTLIN - LiveData, Flow et Coroutines - Android 2022." width="240"></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Vw7YmpZMW10"><img src="http://img.youtube.com/vi/Vw7YmpZMW10/0.jpg" 
-alt="KOTLIN VS JAVA - Quel langage pour débuter le développement Android ?" width="240"/></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=j2gMB5GjVRI"><img src="http://img.youtube.com/vi/j2gMB5GjVRI/0.jpg" 
-alt="400 ABONNÉS, MERCI ! - Premier bilan de la chaîne." width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VI9evblLNMI"><img src="http://img.youtube.com/vi/VI9evblLNMI/0.jpg" 
+alt="Créer une application de scan QR code · Android Studio 2022" width="240"></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KaDl5i03b1k"><img src="http://img.youtube.com/vi/KaDl5i03b1k/0.jpg" 
+alt="Comment faire une veille informatique efficace ?" width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QObe2GY2BrY"><img src="http://img.youtube.com/vi/QObe2GY2BrY/0.jpg" 
+alt="On met à jour mon smartphone - REVUE À CHAUD D'ANDROID 13." width="240"/></a>
