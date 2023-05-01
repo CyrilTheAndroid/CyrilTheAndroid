@@ -27,9 +27,9 @@ Bon, je fais aussi des petites vidéos sur **l’actualité Android/Google** et 
 
 ## 🎥 Vidéos Récentes
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VI9evblLNMI"><img src="http://img.youtube.com/vi/VI9evblLNMI/0.jpg" 
-alt="Créer une application de scan QR code · Android Studio 2022" width="240"></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KaDl5i03b1k"><img src="http://img.youtube.com/vi/KaDl5i03b1k/0.jpg" 
-alt="Comment faire une veille informatique efficace ?" width="240"/></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QObe2GY2BrY"><img src="http://img.youtube.com/vi/QObe2GY2BrY/0.jpg" 
-alt="On met à jour mon smartphone - REVUE À CHAUD D'ANDROID 13." width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0y8X1EDNEJo"><img src="http://img.youtube.com/vi/0y8X1EDNEJo/0.jpg" 
+alt="Jetpack Compose, kézako ? - Le futur d'Android." width="240"></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=v4sgK2JZBWs"><img src="http://img.youtube.com/vi/v4sgK2JZBWs/0.jpg" 
+alt="RÉUSSIR SON ENTRETIEN DANS LES MEILLEURES BOÎTES TECHS" width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RKwFWDFMZME"><img src="http://img.youtube.com/vi/RKwFWDFMZME/0.jpg" 
+alt="Générer un APK de son app Android - Android Studio 2023" width="240"/></a>
