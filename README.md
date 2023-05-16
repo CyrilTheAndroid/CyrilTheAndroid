@@ -23,7 +23,7 @@ Bon, je fais aussi des petites vidéos sur **l’actualité Android/Google** et 
 ## 🔗 Réseaux
 <a href="https://www.youtube.com/channel/UCAlqnetFLl1EhsV02C5Xr0w/videos"><img alt="YouTube CyrilTheAndroid" src="https://user-images.githubusercontent.com/38280340/175380380-f9faa1b1-e6ed-4f11-8770-1dc6d8c77292.png" width=20 height=15 /> Rejoins-nous sur YouTube !</a><br>
 <a href="https://www.instagram.com/cyriltheandroid/"><img alt="Instagram CyrilTheAndroid" src="https://user-images.githubusercontent.com/78708458/188322775-9f715527-1ecd-4310-baa1-e52c73d2b203.png" width=18 height=18 /> Rejoins-nous sur Instagram !</a><br>
-<a href="https://www.instagram.com/cyriltheandroid/"><img alt="Instagram CyrilTheAndroid" src="https://user-images.githubusercontent.com/78708458/188322897-f986fa6d-e71d-409e-b89c-6460247321d8.png" width=18 height=18 /> Mon Github personnel !</a>
+<a href="https://github.com/Cyril-Pina"><img alt="Instagram CyrilTheAndroid" src="https://user-images.githubusercontent.com/78708458/188322897-f986fa6d-e71d-409e-b89c-6460247321d8.png" width=18 height=18 /> Mon Github personnel !</a>
 
 ## 🎥 Vidéos Récentes
 
