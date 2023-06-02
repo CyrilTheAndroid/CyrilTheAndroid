@@ -27,9 +27,9 @@ Bon, je fais aussi des petites vidéos sur **l’actualité Android/Google** et 
 
 ## 🎥 Vidéos Récentes
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0y8X1EDNEJo"><img src="http://img.youtube.com/vi/0y8X1EDNEJo/0.jpg" 
-alt="Jetpack Compose, kézako ? - Le futur d'Android." width="240"></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v4sgK2JZBWs"><img src="http://img.youtube.com/vi/v4sgK2JZBWs/0.jpg" 
-alt="RÉUSSIR SON ENTRETIEN DANS LES MEILLEURES BOÎTES TECHS" width="240"/></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=RKwFWDFMZME"><img src="http://img.youtube.com/vi/RKwFWDFMZME/0.jpg" 
-alt="Générer un APK de son app Android - Android Studio 2023" width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mRt4dCcDm6k"><img src="http://img.youtube.com/vi/mRt4dCcDm6k/0.jpg" 
+alt="Créer une application Android avec Room (& Jetpack Compose)" width="240"></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ylVzpJevKX8"><img src="http://img.youtube.com/vi/ylVzpJevKX8/0.jpg" 
+alt="LE RÉCAP DE LA GOOGLE I/O 2023" width="240"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5bmYhDJCtTI"><img src="http://img.youtube.com/vi/5bmYhDJCtTI/0.jpg" 
+alt="GOOGLE I/O - RETOUR SUR LA KEYNOTE ft. Boris & Pierrick" width="240"/></a>
